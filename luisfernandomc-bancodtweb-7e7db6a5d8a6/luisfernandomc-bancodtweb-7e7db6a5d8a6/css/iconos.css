@@ -1,0 +1,47 @@
+.icon-reporte-cartera:before {
+    content: url(../img/sistema/cartera-01.png) !important;
+}
+.icon-reporte-sincronizados:before {
+    content: url(../img/sistema/sincronizar-01.png) !important;
+}
+.icon-reporte-boletos-cliente:before {
+    content: url(../img/sistema/tickes-01.png) !important;
+}
+
+.icon-reporte-sanitizacion:before {
+    content: url(../img/sistema/sanitizacion.png) !important;
+}
+.icon-producto:before {
+    content: url(../img/sistema/producto.png) !important;
+}
+.icon-tienda:before {
+    content: url(../img/sistema/tienda_a.png) !important;
+}
+.icon-promocion-producto:before {
+    content: url(../img/sistema/promocion.png) !important;
+}
+.icon-publicidad:before {
+    content: url(../img/sistema/anuncioSucursal.png) !important;
+}
+
+.icon-whatsapp:before {
+    content: url(../img/wh.png) !important;
+}
+.x-form-itemselector-top {
+    background-image: url(../img/arribafin.png) !important;
+}
+.x-form-itemselector-up {
+    background-image: url(../img/arriba.png) !important;
+}
+.x-form-itemselector-add {
+    background-image: url(../img/agregar.png) !important;
+}
+.x-form-itemselector-remove {
+    background-image: url(../img/quitar.png) !important;
+}
+.x-form-itemselector-down {
+    background-image: url(../img/abajo.png) !important;
+}
+.x-form-itemselector-bottom {
+    background-image: url(../img/abajofin.png) !important;
+}
